@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **Server Manager**
+
+- 👯 I’m looking to collaborate on [codebudlslutions](https://codebudsolutions.com/)
+
+- 🤝 I’m looking for help with **codebudlslutions**
+
+- 📄 Know about my experiences [https://www.overleaf.com/project/68ff0dbc5dd0ed4dc2739270](https://www.overleaf.com/project/68ff0dbc5dd0ed4dc2739270)
+
+- ⚡ Fun fact **I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
